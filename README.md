@@ -5,8 +5,8 @@ Desafio da Rocketseat de desenvolver uma página que contenha um toggle para alt
 
 <p align="left">
 <code>
-<img src="/images/themeLight.png" height="200px">
-<img src="/images/themeDark.png" height="200px">
+<img src="/images/themeLight.png" height="170px">
+<img src="/images/themeDark.png" height="170px">
 </code>
 </p>
  
